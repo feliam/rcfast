@@ -8,7 +8,8 @@ This expects a normal not crashing control file and a mutated same sized crashin
 
 It is based on the minimal debugging loop described here: http://blog.binamuse.com/2013/01/a-micro-windows-crash-catcher-in-python.html
 
-Here there is the demo video:
+Here there is the demo video: http://bit.ly/1mfe7w5
+
 And a spanish slidedeck here: http://bit.ly/1nbj9Lj
 
 Pipy link: https://pypi.python.org/pypi/RCFast/0.1
